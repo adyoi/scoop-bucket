@@ -1,23 +1,23 @@
 {
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "Hybrid public-key string & file encryption (libsodium)",
     "homepage": "https://github.com/adyoi/tesseract-crypt",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/adyoi/tesseract-crypt/releases/download/v1.0.1/tesseract-crypt-1.0.1-Windows-x64.zip",
-            "hash": "15ad13a54a50b4ec4cf00dd6f8932aeef592399341e0d38e850fa0ec62dd00a3",
-            "extract_dir": "tesseract-crypt-1.0.1-Windows-x64"
+            "url": "https://github.com/adyoi/tesseract-crypt/releases/download/v1.0.2/tesseract-crypt-1.0.2-Windows-x64.zip",
+            "hash": "feac0ceb55258c2e8e8285c374024a1619e771b78c5827a89be7fcad3f3d0605",
+            "extract_dir": "tesseract-crypt-1.0.2-Windows-x64"
         },
         "32bit": {
-            "url": "https://github.com/adyoi/tesseract-crypt/releases/download/v1.0.1/tesseract-crypt-1.0.1-Windows-x86.zip",
-            "hash": "b0f216cdd49d79dddc09883f7131b8bc073736236179ad3f1cedaf26c88e40a5",
-            "extract_dir": "tesseract-crypt-1.0.1-Windows-x86"
+            "url": "https://github.com/adyoi/tesseract-crypt/releases/download/v1.0.2/tesseract-crypt-1.0.2-Windows-x86.zip",
+            "hash": "7b4478326b8dd557434ef2fbb62ec5eb7ad65b074626c1b386792674e0efd573",
+            "extract_dir": "tesseract-crypt-1.0.2-Windows-x86"
         },
         "arm64": {
-            "url": "https://github.com/adyoi/tesseract-crypt/releases/download/v1.0.1/tesseract-crypt-1.0.1-Windows-arm64.zip",
-            "hash": "152b375375a15b2bb71c452294653ece3a1e733c6cb8155aaac3ed9476dce214",
-            "extract_dir": "tesseract-crypt-1.0.1-Windows-arm64"
+            "url": "https://github.com/adyoi/tesseract-crypt/releases/download/v1.0.2/tesseract-crypt-1.0.2-Windows-arm64.zip",
+            "hash": "1b2ca82f36b8aaa4b79afa4a03905e104a4e6ead7aed08171e775c0694b8f0b1",
+            "extract_dir": "tesseract-crypt-1.0.2-Windows-arm64"
         }
     },
     "bin": [
